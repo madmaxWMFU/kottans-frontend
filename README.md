@@ -1,9 +1,9 @@
 # kottans-frontend
 
-My achievements in courses -> [![Kottans-Frontend][icon-kottans]][kottans-frontend]
+My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 
 ## Tasks: 
-1. [Git Basics](../git_and_github/git_and_github.md)
+1. [Git Basics](git_and_github/git_and_github.md)
 
 
 
