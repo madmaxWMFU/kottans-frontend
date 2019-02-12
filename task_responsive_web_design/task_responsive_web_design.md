@@ -6,7 +6,5 @@ Its very interesting task for expanding your knowledge in responsive web design.
 ![alt-текст](frog.png)
 * [Flexbox Froggy](http://cssgridgarden.com)
 ![alt-текст](treehouse.png)
-[Flexbox Zombies](https://mastery.games)
-![alt-текст](zombies.png)
 
 [back](../README.md)
