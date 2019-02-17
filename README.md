@@ -11,8 +11,8 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 
 ## Practice
 1. Google-style Popup
-   -[Demo](https://madmaxwmfu.github.io/g00gle-p0pup/)
-   -[Code](https://github.com/madmaxWMFU/g00gle-p0pup)
+   - [Demo](https://madmaxwmfu.github.io/g00gle-p0pup/)
+   - [Code](https://github.com/madmaxWMFU/g00gle-p0pup)
 
 
 
