@@ -10,6 +10,11 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 5. [Responsive Web Design Fundamentals](task_responsive_web_design/task_responsive_web_design.md)
 6. [JavaScript Basics](task_js_basic/task_js_basic.md)
 
+## Practice
+1. Google-style Popup
+   - [Demo](https://madmaxwmfu.github.io/g00gle-p0pup/)
+   - [Code](https://github.com/madmaxWMFU/g00gle-p0pup)
+
 
 
 
