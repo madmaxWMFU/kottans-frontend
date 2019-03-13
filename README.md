@@ -9,12 +9,16 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 4. [Intro to HTML and CSS](task_html_css_intro/html_css_intro.md)
 5. [Responsive Web Design Fundamentals](task_responsive_web_design/task_responsive_web_design.md)
 6. [JavaScript Basics](task_js_basics/task_js_basics.md)
+7. [Document Object Model](task_js_dom/task_js_dom.md)
 
 ## Practice
 1. Google-style Popup
    - [Demo](https://madmaxwmfu.github.io/g00gle-p0pup/)
    - [Code](https://github.com/madmaxWMFU/g00gle-p0pup)
-2. HTML5 form
+2. Document Object Model
+   - [Demo](https://madmaxwmfu.github.io/dom-marvel/)
+   - [Code](https://github.com/madmaxWMFU/dom-marvel)   
+3. HTML5 form
    - [Demo](https://madmaxwmfu.github.io/html5-forms/)
    - [Code](https://github.com/madmaxWMFU/html5-forms)
 
