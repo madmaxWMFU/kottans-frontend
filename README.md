@@ -17,8 +17,11 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
    - [Code](https://github.com/madmaxWMFU/g00gle-p0pup)
 2. Document Object Model
    - [Demo](https://madmaxwmfu.github.io/dom-marvel/)
-   - [Code](https://github.com/madmaxWMFU/dom-marvel)   
-3. HTML5 form
+   - [Code](https://github.com/madmaxWMFU/dom-marvel)
+3. A Tiny JS World (pre - OOP)
+   - [Demo](https://madmaxwmfu.github.io/a-tiny-JS-world/)
+   - [Code](https://github.com/madmaxwmfu/a-tiny-JS-world/blob/gh-pages/index.js)
+4. HTML5 form
    - [Demo](https://madmaxwmfu.github.io/html5-forms/)
    - [Code](https://github.com/madmaxWMFU/html5-forms)
 
