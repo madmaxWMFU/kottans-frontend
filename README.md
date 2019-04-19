@@ -10,6 +10,7 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 5. [Responsive Web Design Fundamentals](task_responsive_web_design/task_responsive_web_design.md)
 6. [JavaScript Basics](task_js_basics/task_js_basics.md)
 7. [Document Object Model](task_js_dom/task_js_dom.md)
+8. [Object-Oriented JavaScript](task_js_oop/task_js_oop.md)
 
 ## Practice
 1. Google-style Popup
@@ -21,7 +22,10 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 3. A Tiny JS World (pre - OOP)
    - [Demo](https://madmaxwmfu.github.io/a-tiny-JS-world/)
    - [Code](https://github.com/madmaxwmfu/a-tiny-JS-world/blob/gh-pages/index.js)
-4. HTML5 form
+4. Frogger
+   - [Demo](https://madmaxwmfu.github.io/frogger_game/)
+   - [Code](https://github.com/madmaxWMFU/frogger_game)
+5. HTML5 form
    - [Demo](https://madmaxwmfu.github.io/html5-forms/)
    - [Code](https://github.com/madmaxWMFU/html5-forms)
 
