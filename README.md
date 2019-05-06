@@ -11,6 +11,7 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 6. [JavaScript Basics](task_js_basics/task_js_basics.md)
 7. [Document Object Model](task_js_dom/task_js_dom.md)
 8. [Object-Oriented JavaScript](task_js_oop/task_js_oop.md)
+9. [Offline Web Applications](task_offline_web_app/task_offline_web_app.md)
 
 ## Practice
 1. Google-style Popup
@@ -19,7 +20,7 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 2. Document Object Model
    - [Demo](https://madmaxwmfu.github.io/dom-marvel/)
    - [Code](https://github.com/madmaxWMFU/dom-marvel)
-3. A Tiny JS World (pre - OOP)
+3. A Tiny JS World
    - [Demo](https://madmaxwmfu.github.io/a-tiny-JS-world/)
    - [Code](https://github.com/madmaxwmfu/a-tiny-JS-world/blob/gh-pages/index.js)
 4. Frogger
