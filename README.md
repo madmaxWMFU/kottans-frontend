@@ -26,7 +26,10 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 4. Frogger
    - [Demo](https://madmaxwmfu.github.io/frogger_game/)
    - [Code](https://github.com/madmaxWMFU/frogger_game)
-5. HTML5 form
+5. Memory Pair Game
+   - [Demo](https://madmaxwmfu.github.io/memory-game/)
+   - [Code](https://github.com/madmaxWMFU/memory-game)
+6. HTML5 form
    - [Demo](https://madmaxwmfu.github.io/html5-forms/)
    - [Code](https://github.com/madmaxWMFU/html5-forms)
 
