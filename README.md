@@ -12,6 +12,7 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 7. [Document Object Model](task_js_dom/task_js_dom.md)
 8. [Object-Oriented JavaScript](task_js_oop/task_js_oop.md)
 9. [Offline Web Applications](task_offline_web_app/task_offline_web_app.md)
+10. [Website Performance Optimization](task_website_performance/task_website_performance.md)
 
 ## Practice
 1. Google-style Popup
