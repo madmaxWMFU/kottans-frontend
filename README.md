@@ -30,7 +30,10 @@ My achievements in courses [![Kottans-Frontend][icon-kottans]][kottans-frontend]
 5. Memory Pair Game
    - [Demo](https://madmaxwmfu.github.io/memory-game/)
    - [Code](https://github.com/madmaxWMFU/memory-game)
-6. HTML5 form
+6. Friends App
+   - [Demo](https://madmaxwmfu.github.io/Friends-App/)
+   - [Code](https://github.com/madmaxWMFU/Friends-App)
+7. HTML5 form
    - [Demo](https://madmaxwmfu.github.io/html5-forms/)
    - [Code](https://github.com/madmaxWMFU/html5-forms)
 
